@@ -3,9 +3,9 @@
 layout: home
 
 hero:
-  name: "Just Docs Project"
-  text: "the get started project for Docs Projects"
-  tagline: My great project tagline
+  name: "Mohammad Al Hallaq"
+  text: "someone how like to code in vue, and nothing more."
+  tagline: just gray text to fill the line, one more word
   actions:
     - theme: brand
       text: Markdown Examples
